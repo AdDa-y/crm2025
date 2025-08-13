@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/springBoot3-001-first/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springBoot3-001-first/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springBoot3-002-init/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springBoot3-002-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springBoot3-003-annotaiton/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springBoot3-003-annotaiton/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springBoot3-004-junit/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springBoot3-005-yam/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springBoot3-006-aop/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springBoot3-007-sbssm/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springBoot3-008-generator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springBoot3-009-ssm/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springBoot3-010-pageHelper/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springBoot3-011-transactional/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springBoot3-lombok/src/main/java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

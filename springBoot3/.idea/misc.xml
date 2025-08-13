@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/springBoot3-002-Initializr" />
+    <file type="web" url="file://$PROJECT_DIR$/springBoot3-007-ssm" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/springBoot3-01-first/pom.xml" />
+        <option value="$PROJECT_DIR$/springBoot3-001-first/pom.xml" />
+        <option value="$PROJECT_DIR$/springBoot3-002-init/pom.xml" />
+        <option value="$PROJECT_DIR$/springBoot3-002-test/pom.xml" />
+        <option value="$PROJECT_DIR$/springBoot3-003-annotaiton/pom.xml" />
+        <option value="$PROJECT_DIR$/springBoot3-004-junit/pom.xml" />
+        <option value="$PROJECT_DIR$/springBoot3-005-yam/pom.xml" />
+        <option value="$PROJECT_DIR$/springBoot3-006-aop/pom.xml" />
+        <option value="$PROJECT_DIR$/springBoot3-007-sbssm/pom.xml" />
+        <option value="$PROJECT_DIR$/springBoot-008-mybatsi-gennerator/pom.xml" />
+        <option value="$PROJECT_DIR$/springBoot3-008-generator/pom.xml" />
+        <option value="$PROJECT_DIR$/springBoot3-lombok/pom.xml" />
+        <option value="$PROJECT_DIR$/springBoot3-009-ssm/pom.xml" />
+        <option value="$PROJECT_DIR$/springBoot3-010-pageHelper/pom.xml" />
+        <option value="$PROJECT_DIR$/springBoot3-011-transactional/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/springBoot-008-mybatsi-gennerator/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21_PREVIEW" project-jdk-name="21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
