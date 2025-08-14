@@ -11,6 +11,7 @@
         <module name="springBoot3-006-aop" />
         <module name="springBoot3-002-init" />
         <module name="springBoot3-003-annotaiton" />
+        <module name="springBoot3-012-git" />
         <module name="springBoot3-007-sbssm" />
         <module name="springBoot3-001-first" />
         <module name="springBoot3-002-test" />
@@ -49,6 +50,7 @@
       <module name="springBoot3-009-ssm" options="-parameters" />
       <module name="springBoot3-010-pageHelper" options="-parameters" />
       <module name="springBoot3-011-transactional" options="-parameters" />
+      <module name="springBoot3-012-git" options="-parameters" />
       <module name="springBoot3-lombok" options="-parameters" />
     </option>
   </component>

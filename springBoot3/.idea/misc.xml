@@ -23,6 +23,7 @@
         <option value="$PROJECT_DIR$/springBoot3-009-ssm/pom.xml" />
         <option value="$PROJECT_DIR$/springBoot3-010-pageHelper/pom.xml" />
         <option value="$PROJECT_DIR$/springBoot3-011-transactional/pom.xml" />
+        <option value="$PROJECT_DIR$/springBoot3-012-git/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
